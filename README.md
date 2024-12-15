@@ -85,10 +85,3 @@ Amazon's recommender system effectively uses **Item-to-Item Collaborative Filter
 ## References
 - Greg Linden, Brent Smith, and Jeremy York, *“Amazon.com Recommendations: Item-to-Item Collaborative Filtering”*, IEEE Internet Computing, 2003. [Read the paper here](https://datajobs.com/data-science-repo/Recommender-Systems-[Amazon].pdf)
 - Bruce D. Temkin, *Scenario Design: A Disciplined Approach to Customer Experience*, Forrester Research, 2004.
-
----
-
-## How to Use This Repository
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/amazon-recommender-analysis.git
